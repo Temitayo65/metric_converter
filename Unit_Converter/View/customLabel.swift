@@ -27,7 +27,7 @@ class customLabel: UILabel {
     
     func customLabelView(){
         layer.cornerRadius = 20
-        text = "toggle for result"
+        text = " "
         textColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
         textAlignment = .center
         backgroundColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 0.1)
